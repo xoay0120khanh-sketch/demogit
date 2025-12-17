@@ -1,0 +1,12 @@
+{
+  "name": "ma-nguon-mo-root",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "vercel-build": "npx prisma generate --schema=backend/prisma/schema.prisma && npm --prefix frontend run build"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.0.0",
+    "pg": "^8.8.0"
+  }
+}

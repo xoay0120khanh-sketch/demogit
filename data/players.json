@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Player One",
+    "position": "Forward",
+    "number": 9
+  },
+  {
+    "id": 2,
+    "name": "Player Two",
+    "position": "Midfield",
+    "number": 8
+  }
+]
