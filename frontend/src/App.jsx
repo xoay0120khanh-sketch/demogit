@@ -28,7 +28,7 @@ export default function App(){
       <header className="app-header">
         <h1 className="title">Danh sách cầu thủ</h1>
         <div className="student-card" aria-label="Thông tin sinh viên">
-          <div className="student-name">Đậu Quốc Khánh</div>
+          <div className="student-name">Đậu Quốc Khánh_Thu2_Ca2</div>
           <div className="student-meta">
             <span className="meta-item"><strong>MSSV:</strong> DH52200867</span>
             <span className="meta-item"><strong>Lớp:</strong> D22_TH13</span>
